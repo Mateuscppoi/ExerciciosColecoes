@@ -20,7 +20,6 @@ public class Exercicio3 {
 			if(tmp == posicao-1) {
 				numero = lista.next();
 			}
-			System.out.println(lista.next());
 			tmp++;
 		}
 		numeros.remove(numero);
